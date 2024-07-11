@@ -1,0 +1,59 @@
+
+Ce dataset contient des informations à propos de commandes et de ventes chez un revendeur mondial, nommons-le International Office.
+
+Voici une description des colonnes, en anglais, parce que sinon, ça serait trop simple. Et par ordre alphabétique, parce que sinon, ça ne serait pas drôle.
+
+
+
+category: The category of products sold in the superstore.
+
+city: The city where the order was placed.
+
+country: The country in which the superstore is located.
+
+customer_id: A unique identifier for each customer.
+
+customer_name: The name of the customer who placed the order.
+
+discount: The discount applied to the order.
+
+market: The market or region where the superstore operates.
+
+market2: Another column related to market information.
+
+order_date: The date when the order was placed.
+
+order_id: A unique identifier for each order.
+
+order_priority: The priority level of the order.
+
+product_id: A unique identifier for each product.
+
+product_name: The name of the product.
+
+price: The price of the product.
+
+quantity: The quantity of products ordered.
+
+region: The region where the order was placed.
+
+segment: The customer segment (e.g., consumer, corporate, or home office).
+
+ship_date: The date when the order was shipped.
+
+ship_mode: The shipping mode used for the order.
+
+shipping_cost: The cost of shipping for the order.
+
+state: The state or region within the country.
+
+sub_category: The sub-category of products within the main category.
+
+weeknum: The week number when the order was placed.
+
+year: The year in which the order was placed.
+
+
+
+
+
